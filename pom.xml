@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>decompress-targz</artifactId>
-    <version>0.1.1</version>
+    <version>0.1.2-SNAPSHOT</version>
     <name>decompress-targz</name>
     <description>WebJar for decompress-targz</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>https://github.com/webjars/decompress-targz</url>
         <connection>scm:git:https://github.com/webjars/decompress-targz.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/decompress-targz.git</developerConnection>
-        <tag>decompress-targz-0.1.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
